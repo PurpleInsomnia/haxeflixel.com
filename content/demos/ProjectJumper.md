@@ -10,8 +10,8 @@ source: "Platformers/ProjectJumper"
 
 - Move - W + A / Left + Right
 - Shoot - J / X
-- Jump - L / C
-- Select entry on the menu - space
+- Jump - K / C / Spacebar
+- Select entry on the menu - Spacebar
 
 **The original tutorial series by Chipacabra:**
 
