@@ -103,8 +103,10 @@ Please review the readme in the [flixel-docs repo](https://github.com/HaxeFlixel
 
     Dates should use YYYY-MM-DD
 
-    Note that by adding a URL to one of the supported targets, the icon will automatically become coloured on the
-    [showcase page](https://haxeflixel.com/showcase) and link to that URL.
+    The `website` URL will be the link target when the cover image is clicked.
+
+    Note that by adding a URL to any of the supported marketplaces, the corresponding icon will automatically
+    appear on the [showcase page](https://haxeflixel.com/showcase) and link to that URL.
 ```
 
 2. Add a screenshot of the showcase using the same title used in the `*.md` file, e.g. `Go! Go! PogoGirl.png`
